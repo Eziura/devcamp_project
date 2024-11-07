@@ -63,6 +63,6 @@
 .page-container > .right-column > .website-image > #mywebsite {
     height: 100%;
     width: 550px;
-    margin-bottom: 2px;
+    margin-bottom: 10px;
     box-shadow: -15px -13px 39px -10px rgba(0, 0, 0, 0.77);
 }
