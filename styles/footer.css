@@ -13,12 +13,17 @@
     border: 1px solid #646565;
     color: white;
     font-size: 1.2rem;
-    padding: 8px;
+    display: flex;
     text-align: center;
+    align-items: center;
+    justify-content: center;
     width: 100%;
+    height: inherit;
+    padding: 8px;
 }
 
 .footer > .footer-text .bold-cap-text {
     font-size: 1.6rem;
     font-weight: 800;
+    margin-left: 2px;
 }
