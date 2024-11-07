@@ -1,0 +1,56 @@
+/* navbar center column buttons */
+.drop-down-btn-container > .spark-btn {
+    background-color: transparent;
+    border: none;
+    color: grey;
+    cursor: pointer;
+    font-size: 1.1rem;
+}
+
+/* navbar right column buttons */
+.create-btn {
+    background-color: #36383F;
+    border: 1px solid #36383F;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    font-size: 1.1rem;
+    padding: 12px 22px;
+}
+
+#log-in-btn, #sign-up-btn {
+    background-color: #36383F;
+    border: 1px solid #36383F;
+    border-radius: 3px;
+    color: white;
+    font-size: 1.1rem;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* content left column buttons */
+#green-sign-up-btn {
+    background-color: #4BCE79;
+    border: none;
+    border-radius: 3px;
+    color: black;
+    font-family: "Lato", sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-right: 20px;
+    padding: 14px 28px;
+    text-decoration: none;
+}
+
+#learn-more-btn {
+    background-color: black;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 15px 28px;
+    text-decoration: none;
+}
